@@ -7,7 +7,7 @@ import * as cors from 'cors';
 
 async function bootstrap() {
   const app = await NestFactory.create(AppModule, {
-    cors: false,
+    cors: true,
   });
 
   app.setGlobalPrefix('api');
