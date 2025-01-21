@@ -46,4 +46,4 @@
 
 <h2>Запуск</h2>
 <h3>Frontend: откройте папку frontend, установите зависимости командой `npm i`, запустите проект командой `npm run serve`</h3>
-<h3>Backend: откройте папку streaming_service и запустите backend командой `npm run start`</h3>
+<h3>Backend: откройте папку streaming_service, установите зависимости командой `npm i`, запустите backend командой `npm run start`</h3>
