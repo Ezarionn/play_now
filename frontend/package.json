@@ -1,5 +1,5 @@
 {
-  "name": "Play_now",
+  "name": "play_now",
   "version": "1.0.0",
   "description": "App for listening music",
   "main": "index.ts",
